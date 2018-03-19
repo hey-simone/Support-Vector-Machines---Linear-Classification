@@ -6,4 +6,4 @@ In this post, concepts on how they work with a __Linear Kernel__ are explained i
 
 ![svm](http://www.3leafnodes.com/assets/images/svm/support-vectors.png)
 
-The full post is available [here](http://3leafnodes.com/support-vector-machines-classification)
+The full post is available [here](http://3leafnodes.com/support-vector-machines-classification).
